@@ -1,5 +1,6 @@
-# 2015_HiMCM_5813
+# Team 5813 @ HiMCM 2015
 
+Solution Paper URL: https://github.com/alvinsunyixiao/2015_HiMCM_5813/blob/master/5813.pdf  
 Certification URL: http://www.comap-math.com/himcm/2015Certs/5813.pdf  
 Source Code URL: https://github.com/alvinsunyixiao/2015_HiMCM_5813
 
